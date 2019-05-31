@@ -7,8 +7,6 @@
 !INCLUDE "conclusion/conclusion_proposal.mdpp"
 !INCLUDE "acknowledgements.md"
 
-\printbibliography
-
 \appendix
 
 !INCLUDE "appendices.md"
